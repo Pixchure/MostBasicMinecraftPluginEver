@@ -1,0 +1,10 @@
+package me.pixchurelive.basic
+
+Import org.bukkit.plugin.java.JavaPlugin
+
+public final class onenable extends JavaPlugin {
+@Override
+public void onEnable() {
+System.out.printIn(“Plugin Started”);
+      }
+}
